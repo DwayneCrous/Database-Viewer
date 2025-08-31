@@ -1,6 +1,6 @@
 # 💾 Dwayne's Database Viewer
 
-This project demonstrates working with databases in a Node.js and React environment. It includes a backend server using Node.js and SQLite, and a frontend built with React.
+This project is a full-stack SQLite database viewer and manager. It features a Node.js backend with REST API endpoints and a React frontend for browsing, editing, and managing database tables and files through a user-friendly web interface.
 
 ## 🗂️ Project Structure
 
