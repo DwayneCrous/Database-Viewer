@@ -58,4 +58,4 @@ The React app will typically run on [http://localhost:3000](http://localhost:300
 - ⬇️ Download your updated database
 
 ## 📄 License
-This project is for educational/demo purposes.
+MIT License
